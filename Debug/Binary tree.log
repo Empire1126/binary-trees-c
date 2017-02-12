@@ -1,0 +1,9 @@
+﻿  Binary tree.cpp
+  Generating Code...
+  Compiling...
+  tree.cpp
+c:\2510-luke pinkney-thomas\lab 1\binary tree\tree.cpp(112): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\2510-luke pinkney-thomas\lab 1\binary tree\tree.cpp(190): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  Generating Code...
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\2510-Luke Pinkney-Thomas\Lab 1\Binary tree\Debug\Binary tree.exe : fatal error LNK1120: 1 unresolved externals
